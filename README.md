@@ -20,6 +20,6 @@ While this repository primarily represents my personal projects and progress, I 
 
 ## Contact
 
-You can reach me via email at [your-email@example.com] if you have any inquiries or would like to connect. I'm also open to networking with fellow Python enthusiasts and beginners to learn and grow together.
+You can reach me via email at [lnnu3kj@inboxes.app] if you have any inquiries or would like to connect. I'm also open to networking with fellow Python enthusiasts and beginners to learn and grow together.
 
 Thank you for visiting my "New Python Code Beginner" repository. I hope you find my projects and progress inspiring, and I look forward to sharing more updates as I continue my programming journey!
